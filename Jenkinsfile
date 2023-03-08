@@ -23,7 +23,7 @@ pipeline {
 /*        
         stage('Relative path') {
             steps {
-                sh("./scripts/fibonacci.sh ${env.NUMBER}")
+                sh("./scripts/fibonacci.sh")
             }
         }
 */        
