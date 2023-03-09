@@ -1,3 +1,3 @@
 # jenkins-fibonacci
 
-[![Build Status]%2528http%253A%252F%252Fec2-52-0-40-236.compute-1.amazonaws.com%252FbuildStatus%252Ficon%253Fjob%253D03_03_fibonacci-pipeline%2529%255D%2528http%253A%252F%252Fec2-52-0-40-236.compute-1.amazonaws.com%252Fjob%252F03_03_fibonacci-pipeline%252F%2529
+[![Build Status]%28http%3A%2F%2Fec2-52-0-40-236.compute-1.amazonaws.com%2FbuildStatus%2Ficon%3Fjob%3D03_03_fibonacci-pipeline%29%5D%28http%3A%2F%2Fec2-52-0-40-236.compute-1.amazonaws.com%2Fjob%2F03_03_fibonacci-pipeline%2F%29
